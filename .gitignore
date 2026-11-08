@@ -1,0 +1,24 @@
+# Bytecode and runtime cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary Frame Renders
+frames/
+*.png
+*.jpg
+
+# Video Output Directory
+output/
+*.mp4
+*.avi
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE & OS Metadata
+.idea/
+.vscode/
+.DS_Store
